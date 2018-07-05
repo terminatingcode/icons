@@ -1,0 +1,6 @@
+[submodule "8bit-pairing"]
+	path = 8bit-pairing
+	url = https://github.com/terminatingcode/8bit-pairing
+[submodule "k8s"]
+	path = k8s
+	url = https://github.com/terminatingcode/k8s
